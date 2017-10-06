@@ -1,7 +1,8 @@
 # TripSimulator
 > Videogame made for the 2017 Bolivian GGJ
 
-[![Twitter URL](https://img.shields.io/badge/Type-Videogame-yellow.svg)](https://github.com/ZLTM/Taki)
+[![Twitter URL](https://img.shields.io/badge/Type-Videogame-yellow.svg)](https://github.com/ZLTM/TripSimulator)
+[![Twitter URL](https://img.shields.io/badge/Platform-Windows--pc-blue.svg)](https://github.com/ZLTM/TripSimulator)
 
 Game made following the theme "Waves", the player will be a man lost in the woods following the sounds he hear to progress in the game.
 
