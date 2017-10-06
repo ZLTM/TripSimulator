@@ -1,0 +1,233 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 183ec02ac4b14364392b19dae3f3e4b7, type: 3}
+  m_Name: AkWwiseProjectData 7
+  m_EditorClassIdentifier: 
+  CurrentPluginConfig: 
+  EventWwu:
+  - PhysicalPath: Events\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    Guid: '{1D5B07A1-B8F8-4034-9D9E-8ED276797C46}'
+    m_lastTimePsrt1: 1910604198
+    m_lastTimePart2: -1999355149
+    List:
+    - Name: bongo
+      Path: Default Work Unit\bongo
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: bongo
+        ObjectType: 3
+      ID: 2054004080
+      Guid: 6afee34d2803cd45ac93495557916233
+      maxAttenuation: 0
+    - Name: Dead
+      Path: Default Work Unit\Dead
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Dead
+        ObjectType: 3
+      ID: 2044049779
+      Guid: f9311ffb36e5204ca533fdb6ab7a678c
+      maxAttenuation: 0
+    - Name: Exit_Game
+      Path: Default Work Unit\Exit_Game
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Exit_Game
+        ObjectType: 3
+      ID: -1245420138
+      Guid: 7839d4b4a0feec418c448583af450a38
+      maxAttenuation: 0
+    - Name: Find_Bongo
+      Path: Default Work Unit\Find_Bongo
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Find_Bongo
+        ObjectType: 3
+      ID: -1309662698
+      Guid: db1c7d56ca5d6a4c99f1697166fedb01
+      maxAttenuation: 0
+    - Name: Find_Guit
+      Path: Default Work Unit\Find_Guit
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Find_Guit
+        ObjectType: 3
+      ID: -551152464
+      Guid: 628b79c503984040a32e28b45b9df5e8
+      maxAttenuation: 0
+    - Name: Find_Pand
+      Path: Default Work Unit\Find_Pand
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Find_Pand
+        ObjectType: 3
+      ID: -1966660836
+      Guid: 14b154799eaf0245b50f4576c626788d
+      maxAttenuation: 0
+    - Name: guitarra
+      Path: Default Work Unit\guitarra
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: guitarra
+        ObjectType: 3
+      ID: 1437482784
+      Guid: 3a52e0ac0a179f48a5df1d1fdd0031da
+      maxAttenuation: 0
+    - Name: Lost
+      Path: Default Work Unit\Lost
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Lost
+        ObjectType: 3
+      ID: 221232711
+      Guid: c5597fbbd931b54e8f6cc5539d65ed95
+      maxAttenuation: 0
+    - Name: pandereta
+      Path: Default Work Unit\pandereta
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: pandereta
+        ObjectType: 3
+      ID: -2065619183
+      Guid: 417b678d8c968e499dcd91b931cc09bf
+      maxAttenuation: 0
+    - Name: Start_Game
+      Path: Default Work Unit\Start_Game
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Start_Game
+        ObjectType: 3
+      ID: 1114964412
+      Guid: 049ac1e70c70d74589021b7cabfa7098
+      maxAttenuation: 0
+    - Name: Win
+      Path: Default Work Unit\Win
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Win
+        ObjectType: 3
+      ID: 979765101
+      Guid: 5665865e5a8e0a4da19f1cd51e9674f9
+      maxAttenuation: 0
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    Guid: '{9BEF6E06-DDA3-4AB2-8301-745E66BA897C}'
+    m_lastTimePsrt1: -1653513809
+    m_lastTimePart2: -1999355251
+    List: []
+  StateWwu:
+  - PhysicalPath: States\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    Guid: '{35B3C469-52A7-4F8C-AE6B-63C1D6D155EA}'
+    m_lastTimePsrt1: -1009538843
+    m_lastTimePart2: -1999355400
+    List:
+    - Name: Estados
+      Path: Default Work Unit\Estados
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Estados
+        ObjectType: 9
+      ID: -97756718
+      Guid: 5aa28af69f58b94a8a6c31d892781349
+      values:
+      - Ending
+      - InGame
+      - Menu
+      - None
+      ValueIcons:
+      - ElementName: Ending
+        ObjectType: 8
+      - ElementName: InGame
+        ObjectType: 8
+      - ElementName: Menu
+        ObjectType: 8
+      - ElementName: None
+        ObjectType: 8
+      valueIDs: 245567ecba33b13af0256c9bdb3ba32c
+      ValueGuids:
+      - bytes: 01827a255224844e97af2cd18ef623e5
+      - bytes: 678da63d7a4e9d4c96f743327b132b14
+      - bytes: ced1695f1abda449bc9d0e96a9ac6f1a
+      - bytes: 5df2ae3451f56c4a897a4a5a9e246992
+  SwitchWwu:
+  - PhysicalPath: Switches\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    Guid: '{385CDDCF-29ED-4A24-8BE1-F73CAA090EF1}'
+    m_lastTimePsrt1: -1009558844
+    m_lastTimePart2: -1999355400
+    List:
+    - Name: TripsSwitches
+      Path: Default Work Unit\TripsSwitches
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: TripsSwitches
+        ObjectType: 11
+      ID: 779268995
+      Guid: 645902c0568a7642a044718dafd0a74f
+      values:
+      - Bueno
+      - Malo
+      - Raro
+      ValueIcons:
+      - ElementName: Bueno
+        ObjectType: 10
+      - ElementName: Malo
+        ObjectType: 10
+      - ElementName: Raro
+        ObjectType: 10
+      valueIDs: 2a50abc574e276b9ffe6cb7e
+      ValueGuids:
+      - bytes: 83937f49e868474b908abaf6a5ed4207
+      - bytes: 4dd6ecd1c9ca22449245a922ab803a4e
+      - bytes: 7a4c8e39f3082d4486e0285aaa884be2
+  BankWwu:
+  - PhysicalPath: SoundBanks\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    Guid: '{7DBD1E7C-42A9-4E9F-88B5-AD80EBCC7999}'
+    m_lastTimePsrt1: 1910634214
+    m_lastTimePart2: -1999355149
+    List:
+    - Name: Music
+      Path: Default Work Unit\Music
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 7
+      ID: -303024426
+      Guid: 33c315bec68abc449ec05b2fdeef2776
+  ExpandedItems: []
+  m_lastPopulateTimePsrt1: 0
+  m_lastPopulateTimePart2: 0
+  autoPopulateEnabled: 1
+  basePath: Audio\GeneratedSoundBanks
+  language: English(US)
+  defaultPoolSize: 4096
+  lowerPoolSize: 2048
+  streamingPoolSize: 1024
+  preparePoolSize: 0
+  memoryCutoffThreshold: 0.95

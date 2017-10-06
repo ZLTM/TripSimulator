@@ -210,7 +210,7 @@ public class AkBasePathGetter
 
         if (basePathToSet == string.Empty || InitBnkFound == false)
         {
-	        Debug.Log("WwiseUnity: Looking for SoundBanks in " + basePathToSet);
+	        //Debug.Log("WwiseUnity: Looking for SoundBanks in " + basePathToSet);
 	
 #if !UNITY_EDITOR
             Debug.LogError("WwiseUnity: Could not locate the SoundBanks. Did you make sure to copy them to the StreamingAssets folder?");

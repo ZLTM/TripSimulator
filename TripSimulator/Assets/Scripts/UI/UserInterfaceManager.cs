@@ -11,7 +11,7 @@ public class UserInterfaceManager : MonoBehaviour {
     }
     public void level1()
     {
-        SceneManager.LoadScene("003_level_001");
+        SceneManager.LoadScene("002_tips");
     }
     public void SalirGame()
     {

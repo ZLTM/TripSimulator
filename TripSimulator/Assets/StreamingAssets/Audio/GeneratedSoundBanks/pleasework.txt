@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2577621360	pisadas			\Default Work Unit\pisadas	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	1002722188	Reja	E:\Wwise\TripSimulator\.cache\Android\SFX\Reja_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Reja		299584
+

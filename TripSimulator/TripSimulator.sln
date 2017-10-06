@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
+# Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripSimulator", "TripSimulator.csproj", "{18FFEB1B-B1E5-01B8-429D-328160AE36AE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripSimulator.Editor", "TripSimulator.Editor.csproj", "{3EA735EE-83CE-8636-412A-C0A87DDB35F6}"
