@@ -13,13 +13,13 @@ Game made following the theme "Waves", the player will be a man lost in the wood
 In this project I was able to participate as a:
 
 * Game Designer.
-* Programer.
+* Programmer.
 
 ## Installation
 
 Windows:
 
-Build with unity and play, or play directly in the editor!
+Build with unity and play, or play directly in the unity3D editor!
 
 
 ## Gameplay
