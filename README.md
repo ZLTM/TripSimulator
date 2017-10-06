@@ -3,6 +3,7 @@
 
 [![Twitter URL](https://img.shields.io/badge/Type-Videogame-yellow.svg)](https://github.com/ZLTM/TripSimulator)
 [![Twitter URL](https://img.shields.io/badge/Platform-Windows--pc-blue.svg)](https://github.com/ZLTM/TripSimulator)
+[![Twitter URL](https://img.shields.io/badge/Genre-Sensation-orange.svg)](https://github.com/ZLTM/TripSimulator)
 
 Game made following the theme "Waves", the player will be a man lost in the woods following the sounds he hear to progress in the game.
 
@@ -25,6 +26,13 @@ Build with unity and play, or play directly in the unity3D editor!
 ## Gameplay
 
 You will have to follow the sound of the music to gather all the instruments and scape from the woods.
+
+## Learned
+
+During the development of this project I learned to:
+* Work with a multidisciplinary team.
+* Use the software Wwise together with unity3D.
+* 
 
 ## Contact
 
